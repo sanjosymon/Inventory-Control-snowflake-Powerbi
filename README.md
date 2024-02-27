@@ -1,4 +1,6 @@
-Power BI Dashboard for Stock Analysis and Inventory Management 
+Power BI Dashboard for Stock Analysis and Inventory Management for different Warehouse 
+
+Stack used : Snoeflake , Power BI
 
 Objective:
 The objective of this project is to develop a comprehensive Power BI dashboard that facilitates the analysis of stock classification, inventory turnover ratio, stocks to reorder, and vendor performance for warehouses. The dashboard aims to provide actionable insights to optimize inventory management processes and enhance decision-making efficiency.
